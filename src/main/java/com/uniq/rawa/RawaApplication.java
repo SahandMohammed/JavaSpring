@@ -10,5 +10,6 @@ public class RawaApplication {
         SpringApplication.run(RawaApplication.class, args);
 
         System.out.println("Hello World");
+        System.out.println("a test");
     }
 }
