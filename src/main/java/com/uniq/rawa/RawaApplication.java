@@ -13,4 +13,9 @@ public class RawaApplication {
         SpringApplication.run(RawaApplication.class, args);
     }
 
+    RawaApplication obj = new RawaApplication();
+
+    public int sum(int a, int b) {
+        return a + b;
+    }
 }
