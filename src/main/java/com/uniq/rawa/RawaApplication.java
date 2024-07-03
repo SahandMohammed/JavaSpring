@@ -23,5 +23,7 @@ public class RawaApplication {
         System.out.println("class testtt");
         System.out.println("class testtt");
         System.out.println("class testtt");
+        System.out.println("class testtt");
+        System.out.println("class testtt");
     }
 }
