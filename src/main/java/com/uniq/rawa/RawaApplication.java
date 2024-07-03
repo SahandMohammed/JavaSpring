@@ -34,5 +34,7 @@ public class RawaApplication {
         System.out.println("jmeter test");
         System.out.println("jmeter test");
         System.out.println("jmeter test");
+        System.out.println("jmeter test");
+        System.out.println("jmeter test");
     }
 }
